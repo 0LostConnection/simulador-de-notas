@@ -1,5 +1,9 @@
 # Simulador de Nota Final - Final Grade Simulator
 
+## Fórmula - Formula
+
+> M = N1 + N2 + PPD
+
 ## Compilando - Compiling
 
 ```shell
